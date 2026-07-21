@@ -1,0 +1,1 @@
+Seja bem-vindo(a)! Este repositório reúne os exercícios, desafios e projetos desenvolvidos durante minha participação no FAP – Formação Acelerada em Programação. Seu objetivo é registrar minha evolução ao longo da formação e compartilhar, de forma organizada, os conhecimentos adquiridos por meio da prática.
